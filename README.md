@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iltrds/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iltrds/LeetCode/tree/master/0027-remove-element) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/iltrds/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/iltrds/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Simulation
 |  |
 | ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/iltrds/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/iltrds/LeetCode/tree/master/2058-concatenation-of-array) |
 ## String
 |  |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0020-valid-parentheses](https://github.com/iltrds/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/iltrds/LeetCode/tree/master/0155-min-stack) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/iltrds/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
@@ -41,4 +44,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/iltrds/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/iltrds/LeetCode/tree/master/0206-reverse-linked-list) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/iltrds/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
