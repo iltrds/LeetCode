@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iltrds/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iltrds/LeetCode/tree/master/0027-remove-element) |
+| [1894-merge-strings-alternately](https://github.com/iltrds/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Simulation
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iltrds/LeetCode/tree/master/0020-valid-parentheses) |
+| [1894-merge-strings-alternately](https://github.com/iltrds/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
