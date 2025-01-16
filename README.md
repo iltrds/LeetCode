@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iltrds/LeetCode/tree/master/0020-valid-parentheses) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/iltrds/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/iltrds/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iltrds/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/iltrds/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
