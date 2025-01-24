@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0605-can-place-flowers](https://github.com/iltrds/LeetCode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/iltrds/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/iltrds/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1833-find-the-highest-altitude](https://github.com/iltrds/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/iltrds/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/iltrds/LeetCode/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/iltrds/LeetCode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
