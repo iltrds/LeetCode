@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0027-remove-element](https://github.com/iltrds/LeetCode/tree/master/0027-remove-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iltrds/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/iltrds/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/iltrds/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/iltrds/LeetCode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/iltrds/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/iltrds/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/iltrds/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/iltrds/LeetCode/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
