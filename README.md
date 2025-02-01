@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0151-reverse-words-in-a-string](https://github.com/iltrds/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/iltrds/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iltrds/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/iltrds/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/iltrds/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Simulation
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0020-valid-parentheses](https://github.com/iltrds/LeetCode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/iltrds/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iltrds/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/iltrds/LeetCode/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/iltrds/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/iltrds/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Stack
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/iltrds/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/iltrds/LeetCode/tree/master/1833-find-the-highest-altitude) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/iltrds/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
